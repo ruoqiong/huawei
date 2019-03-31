@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/code/2019软挑-初赛-SDK/SDK/SDK_C++/CodeCraft-2019/CodeCraft-2019.cpp
+iostream
+-
+fstream
+-
+dispatcher.h
+/mnt/hgfs/code/2019软挑-初赛-SDK/SDK/SDK_C++/CodeCraft-2019/dispatcher.h
+
+/mnt/hgfs/code/2019软挑-初赛-SDK/SDK/SDK_C++/CodeCraft-2019/dispatcher.h
+graph.h
+/mnt/hgfs/code/2019软挑-初赛-SDK/SDK/SDK_C++/CodeCraft-2019/graph.h
+
+/mnt/hgfs/code/2019软挑-初赛-SDK/SDK/SDK_C++/CodeCraft-2019/graph.h
+io_process.h
+/mnt/hgfs/code/2019软挑-初赛-SDK/SDK/SDK_C++/CodeCraft-2019/io_process.h
+algorithm
+-
+map
+-
+
+/mnt/hgfs/code/2019软挑-初赛-SDK/SDK/SDK_C++/CodeCraft-2019/io_process.h
+string
+-
+vector
+-
+
